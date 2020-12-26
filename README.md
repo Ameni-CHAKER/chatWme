@@ -1,1 +1,1 @@
-# chatWme
+# Simple chat app
